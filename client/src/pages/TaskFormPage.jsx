@@ -1,7 +1,9 @@
 export default function TaskFormPage() {
     return(
-        <div>
-            Task form page
-        </div>    
+       <>
+        <div style={{color: 'white'}}>
+            <h1>TaskFormPage</h1>
+        </div>
+       </> 
     )
 }

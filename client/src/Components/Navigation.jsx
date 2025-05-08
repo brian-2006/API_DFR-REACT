@@ -7,7 +7,7 @@ export default function Navigation() {
                 <h1>task App</h1>
             </Link>
 
-            <Link to = '/tasks-creat'>
+            <Link to = '/tasks-create'>
                 crear task
             </Link>
         </>
