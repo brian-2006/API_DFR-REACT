@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/brian/Develop/ReactDijangoAPI/venv
+set -gx VIRTUAL_ENV /home/brian/Escritorio/Repositorios/API_DFR-REACT/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
